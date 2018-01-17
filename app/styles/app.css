@@ -1,7 +1,7 @@
 @import 'yoga';
 @import 'normalize';
 
-$fa-font-path: '//netdna.bootstrapcdn.com/font-awesome/4.3.0/fonts';
+$fa-font-path: 'http://netdna.bootstrapcdn.com/font-awesome/4.3.0/fonts';
 @import 'font-awesome';
 @import 'box-sizing';
 @import 'modal';
@@ -72,17 +72,17 @@ a {
   display: flex;
   align-items: center;
   justify-content: space-around;
-  // height: 100vh;
+  height: 100vh;
   min-height: 50vh;
   padding: 0;
-  background: url('./img/FireEscapes.jpg') top center/cover fixed;
+  background: url('/public/img/FireEscapes.jpg') top center/cover fixed;
   text-align: center;
   text-transform: uppercase;
   filter: grayscale(60%);
 }
 
 .main-content {
-  // margin: 1rem;
+  /* margin: 1rem; */
 }
 
 .main-content__header {
