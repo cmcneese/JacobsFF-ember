@@ -56,6 +56,7 @@ main {
 a {
   margin: 1rem;
   color: black;
+  font-weight: 700;
   text-decoration: none;
 }
 
