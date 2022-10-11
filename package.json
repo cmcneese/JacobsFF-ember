@@ -20,7 +20,7 @@
     "broccoli-asset-rev": "^2.4.5",
     "broccoli-ember-hbs-template-compiler": "^1.7.2-alpha",
     "ember-ajax": "^3.0.0",
-    "ember-cli": "^3.8.1",
+    "ember-cli": "^3.28.6",
     "ember-cli-app-version": "^3.0.0",
     "ember-cli-babel": "^6.14.1",
     "ember-cli-dependency-checker": "^2.0.0",
